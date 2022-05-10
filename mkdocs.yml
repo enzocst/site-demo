@@ -1,0 +1,8 @@
+site_name: Teste
+site_author: Enzo
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: black
